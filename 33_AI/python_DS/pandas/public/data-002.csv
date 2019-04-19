@@ -1,0 +1,59 @@
+2,2,8,5,2017-08-07 13:09:24.103,2679,video ended,Android,3,3,cellular 4G,False
+2,2,9,6,2017-08-13 17:26:27.714,20,program stopped or enlarged-reduced,Android,1,2,cellular 4G,False
+2,2,9,7,2017-08-13 17:26:31.535,1,program stopped or enlarged-reduced,Android,3,13,cellular 4G,False
+2,2,9,8,2017-08-13 17:26:44.805,4,program stopped or enlarged-reduced,Android,10,20,cellular 4G,False
+2,2,10,9,2017-08-14 14:07:26.382,2,program stopped or enlarged-reduced,Android,11,12,cellular 4G,False
+2,2,10,9,2017-08-14 14:08:51.195,3,program stopped or enlarged-reduced,Android,11,12,cellular 4G,False
+2,2,11,10,2017-08-17 09:22:31.370,24,program stopped or enlarged-reduced,Android,9,50,cellular 3G,False
+2,2,11,4,2017-08-17 09:23:01.970,29,program stopped or enlarged-reduced,Android,1,16,cellular 3G,False
+2,2,11,8,2017-08-17 09:23:20.670,13,program stopped or enlarged-reduced,Android,15,20,cellular 3G,False
+2,2,11,11,2017-08-17 09:23:43.502,21,program stopped or enlarged-reduced,Android,8,10,cellular 3G,False
+2,2,11,12,2017-08-17 09:25:00.705,76,program stopped or enlarged-reduced,Android,3,8,cellular 3G,False
+2,2,11,12,2017-08-17 09:25:04.759,2,program stopped or enlarged-reduced,Android,3,8,cellular 3G,False
+2,2,11,13,2017-08-17 09:25:49.200,39,interrupt,Android,8,13,cellular 3G,False
+2,2,11,13,2017-08-17 09:30:06.614,213,error,Android,8,13,offline,False
+3,3,12,14,2017-05-28 15:17:00.567,43,pause,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 15:17:23.217,15,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 15:18:18.125,53,pause,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 15:34:22.234,380,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 15:40:14.120,349,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 15:40:15.806,1,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 15:40:17.189,1,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 15:41:33.312,74,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 15:41:35.381,1,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 15:41:37.951,2,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 15:41:44.148,5,pause,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 15:45:19.090,207,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 15:45:21.082,1,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 15:45:22.801,1,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 15:45:24.557,1,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 15:45:26.131,1,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 15:46:11.339,43,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 15:46:14.146,1,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 15:46:28.442,14,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 15:47:21.320,52,pause,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 15:51:29.076,212,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 15:52:55.658,85,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 15:53:05.558,8,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 15:55:41.986,154,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 15:59:13.636,203,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 16:05:13.776,359,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 16:07:09.909,115,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 16:07:11.766,1,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 16:07:15.899,3,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 16:07:18.874,2,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 16:13:22.522,359,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 16:13:25.395,2,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 16:14:29.909,64,pause,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 16:15:08.876,33,pause,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 16:16:07.351,34,pause,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 16:18:57.839,164,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 16:18:59.310,1,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 16:19:38.747,36,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 16:21:11.356,91,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 16:24:49.581,216,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 16:24:51.137,1,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 16:24:53.687,2,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 16:31:53.419,417,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 16:31:56.248,1,seek,Web,1,11,online but unknown,False
+3,3,12,14,2017-05-28 16:31:58.341,1,seek,Web,1,11,online but unknown,False

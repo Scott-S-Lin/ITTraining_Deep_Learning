@@ -1,0 +1,25 @@
+4,6,72,17,2017-07-09 11:27:16.232,10,pause,Android,17,18,wifi,False
+4,7,73,17,2017-07-09 14:21:05.367,1,pause,Android,17,18,wifi,False
+4,7,73,17,2017-07-09 14:21:14.630,3,seek,Android,17,18,wifi,False
+4,7,73,17,2017-07-09 14:26:33.646,299,network error,Android,17,18,offline,False
+4,7,73,17,2017-07-09 14:30:15.770,189,seek,Android,17,18,wifi,False
+4,7,73,17,2017-07-09 14:30:21.381,2,seek,Android,17,18,wifi,False
+4,7,73,17,2017-07-09 14:30:45.202,16,seek,Android,17,18,wifi,False
+4,7,73,17,2017-07-09 14:35:30.635,282,pause,Android,17,18,wifi,False
+4,7,73,17,2017-07-09 14:42:24.350,143,pause,Android,17,18,wifi,False
+4,7,73,17,2017-07-09 14:44:19.829,100,pause,Android,17,18,wifi,False
+4,7,74,17,2017-07-09 15:12:08.195,175,video ended,Android,17,18,wifi,False
+4,7,74,17,2017-07-09 15:16:21.733,224,pause,Android,18,18,wifi,False
+4,7,74,17,2017-07-09 15:32:34.506,888,pause,Android,18,18,wifi,False
+4,7,74,17,2017-07-09 15:34:22.202,106,pause,Android,18,18,wifi,False
+4,7,74,17,2017-07-09 15:44:41.052,600,seek,Android,18,18,wifi,False
+4,7,74,17,2017-07-09 15:44:52.083,9,seek,Android,18,18,wifi,False
+4,7,74,17,2017-07-09 15:44:56.108,1,seek,Android,18,18,wifi,False
+4,7,74,17,2017-07-09 15:45:07.768,8,seek,Android,18,18,wifi,False
+4,7,74,17,2017-07-09 15:45:11.776,1,seek,Android,18,18,wifi,False
+4,7,74,17,2017-07-09 16:00:01.192,887,network error,Android,18,18,wifi,False
+4,7,75,20,2017-07-09 23:59:59.831,18,pause,Android,1,20,wifi,False
+4,7,75,20,2017-07-10 00:00:35.639,16,pause,Android,1,20,wifi,False
+4,7,76,17,2017-07-10 00:38:31.679,57,pause,Android,18,18,wifi,False
+4,7,76,17,2017-07-10 00:39:12.723,19,pause,Android,18,18,wifi,False
+4,7,76,17,2017-07-10 00:42:44.449,202,pause,Android,18,18,wifi,False

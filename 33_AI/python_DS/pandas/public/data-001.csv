@@ -1,0 +1,56 @@
+user_id,device_id,session_id,title_id,event_time,played_duration,action_trigger,platform,episode_number,series_total_episodes_count,internet_connection_type,is_trailer
+0,0,0,0,2018-04-18 14:54:30.325,2,seek,iOS,12,16,wifi,False
+0,0,0,0,2017-06-08 14:54:34.857,2,seek,iOS,12,16,wifi,False
+0,0,0,0,2017-06-08 14:54:36.730,1,seek,iOS,12,16,wifi,False
+0,0,0,0,2017-06-08 14:54:38.976,1,seek,iOS,12,16,wifi,False
+0,0,0,0,2017-06-08 14:54:40.373,1,seek,iOS,12,16,wifi,False
+0,0,0,0,2017-06-08 14:54:41.779,1,seek,iOS,12,16,wifi,False
+0,0,0,0,2017-06-08 14:54:46.615,3,seek,iOS,12,16,wifi,False
+0,0,0,0,2017-06-08 14:57:26.866,159,pause,iOS,12,16,wifi,False
+0,0,0,0,2017-06-08 15:18:25.334,1248,pause,iOS,12,16,wifi,False
+0,0,0,0,2017-06-08 15:19:52.571,3,seek,iOS,12,16,wifi,False
+0,0,0,0,2017-06-08 15:19:56.522,1,seek,iOS,12,16,wifi,False
+0,0,0,0,2017-06-08 15:19:59.010,1,seek,iOS,12,16,wifi,False
+0,0,0,0,2017-06-08 15:20:03.755,3,seek,iOS,12,16,wifi,False
+0,0,0,0,2017-06-08 15:20:05.473,1,seek,iOS,12,16,wifi,False
+0,0,0,0,2017-06-08 15:20:20.889,13,pause,iOS,12,16,wifi,False
+0,0,0,0,2017-06-08 15:20:32.030,11,pause,iOS,12,16,wifi,False
+0,0,0,0,2017-06-08 15:21:35.771,36,pause,iOS,12,16,wifi,False
+0,0,0,0,2017-06-08 15:28:17.433,366,video ended,iOS,12,16,wifi,False
+0,0,0,0,2017-06-08 15:28:35.504,14,seek,iOS,13,16,wifi,False
+0,0,0,0,2017-06-08 15:28:44.007,7,seek,iOS,13,16,wifi,False
+0,0,0,0,2017-06-08 15:28:45.589,1,seek,iOS,13,16,wifi,False
+0,0,0,0,2017-06-08 15:28:47.489,1,seek,iOS,13,16,wifi,False
+0,0,0,0,2017-06-08 15:28:48.773,1,seek,iOS,13,16,wifi,False
+0,0,0,0,2017-06-08 15:28:50.356,1,seek,iOS,13,16,wifi,False
+0,0,0,0,2017-06-08 15:28:52.705,2,seek,iOS,13,16,wifi,False
+0,0,0,0,2017-06-08 15:28:55.395,2,seek,iOS,13,16,wifi,False
+0,0,0,0,2017-06-08 15:28:57.206,1,seek,iOS,13,16,wifi,False
+0,0,0,0,2017-06-08 15:29:02.706,6,seek,iOS,13,16,wifi,False
+0,0,0,0,2017-06-08 16:32:16.163,3793,next episode,iOS,13,16,wifi,False
+0,0,0,0,2017-06-08 16:32:28.713,1,seek,iOS,14,16,wifi,False
+0,0,0,0,2017-06-08 16:32:34.313,3,seek,iOS,14,16,wifi,False
+0,0,0,0,2017-06-08 16:32:36.114,1,seek,iOS,14,16,wifi,False
+0,0,0,0,2017-06-08 16:32:39.120,3,seek,iOS,14,16,wifi,False
+0,0,0,0,2017-06-08 16:52:23.103,1183,pause,iOS,14,16,wifi,False
+0,0,1,0,2017-06-10 12:34:25.435,28,seek,iOS,13,16,wifi,False
+0,0,1,0,2017-06-10 12:34:32.447,2,seek,iOS,13,16,wifi,False
+0,0,1,0,2017-06-10 12:34:37.281,4,next episode,iOS,13,16,wifi,False
+0,0,1,0,2017-06-10 12:34:53.180,10,seek,iOS,14,16,wifi,False
+0,0,1,0,2017-06-10 12:34:57.432,2,seek,iOS,14,16,wifi,False
+0,0,1,0,2017-06-10 12:35:12.744,14,seek,iOS,14,16,wifi,False
+0,0,1,0,2017-06-10 12:35:16.944,2,seek,iOS,14,16,wifi,False
+0,0,1,0,2017-06-10 12:35:21.611,4,seek,iOS,14,16,wifi,False
+0,0,1,0,2017-06-10 12:35:26.786,3,seek,iOS,14,16,wifi,False
+0,0,1,0,2017-06-10 12:35:35.666,8,seek,iOS,14,16,wifi,False
+0,0,1,0,2017-06-10 12:47:57.865,741,pause,iOS,14,16,wifi,False
+0,0,1,0,2017-06-10 12:55:31.425,395,pause,iOS,14,16,wifi,False
+0,0,1,0,2017-06-10 13:12:58.322,249,video ended,iOS,14,16,wifi,False
+0,0,1,0,2017-06-10 13:19:19.764,377,seek,iOS,15,16,wifi,False
+0,0,1,0,2017-06-10 13:19:22.610,2,seek,iOS,15,16,wifi,False
+0,0,1,0,2017-06-10 13:19:26.870,3,pause,iOS,15,16,wifi,False
+0,0,1,0,2017-06-10 13:24:05.749,104,pause,iOS,15,16,wifi,False
+0,0,1,0,2017-06-10 13:32:14.387,270,pause,iOS,15,16,wifi,False
+0,0,2,0,2017-06-11 06:31:21.532,797,interrupt,iOS,15,16,wifi,False
+0,0,2,0,2017-06-11 07:10:13.783,2306,seek,iOS,15,16,wifi,False
+0,0,2,0,2017-06-11 07:10:15.232,1,video ended,iOS,15,16,wifi,False
