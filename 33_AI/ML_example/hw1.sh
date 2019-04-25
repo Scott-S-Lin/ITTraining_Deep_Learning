@@ -1,0 +1,1 @@
+python3 joseph_hw1.py $1 $2
